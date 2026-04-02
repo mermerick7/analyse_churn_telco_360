@@ -70,7 +70,7 @@ analyse_churn_telco_360/
 
 👉 [Voir le dashboard interactif](https://public.tableau.com/views/AnalyseChurnTelco360/DashboardchurnTelco)
 
-![Dashboard Preview](visualisations/05_profil_churner.png)
+![Dashboard Preview](05_profil_churner.png)
 
 ---
 
